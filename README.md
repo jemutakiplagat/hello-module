@@ -11,7 +11,7 @@
 -css and html
 
 
-## Authors
+## Author
 
 👤 **jemutai kiplagat**
 
