@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jemutakiplagat/hello-module/issues"
   },
-  "homepage": "https://github.com/jemutakiplagat/hello-module#readme"
+  "homepage": "https://github.com/jemutakiplagat/hello-module#readme",
+  "devDependencies": {
+    "hint": "^7.1.1"
+  }
 }
